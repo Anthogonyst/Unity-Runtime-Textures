@@ -1,0 +1,16 @@
+<mod
+	name = "Nature mod with hills"
+	creator = "Architect"
+>
+	<pattern>
+		<Texture
+			name = "Hill with house"
+			pattern = "PatternHouseOnAHill"
+		/>
+
+		<Texture
+			name = "Fish hill viewed from top down"
+			pattern = "PatternFish"
+		/>
+	</pattern>
+</mod>

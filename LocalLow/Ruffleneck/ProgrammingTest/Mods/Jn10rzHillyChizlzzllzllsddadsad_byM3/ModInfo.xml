@@ -1,0 +1,21 @@
+<mod
+	name = "I love houses on hills and cats!"
+	creator = "Architect Junior"
+>
+	<pattern>
+		<Texture
+			name = "Cat on a hill in darkness"
+			pattern = "PatternCat"
+		/>
+
+		<Texture
+			name = "Big house on a hill!"
+			pattern = "PatternHouseOnAHill"
+		/>	
+
+		<Texture
+			name = "Dog jumping from a hill!"
+			pattern = "PatternDog"
+		/>
+	</pattern>
+</mod>

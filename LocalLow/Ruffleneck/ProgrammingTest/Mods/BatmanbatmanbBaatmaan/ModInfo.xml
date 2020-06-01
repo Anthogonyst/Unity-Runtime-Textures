@@ -1,0 +1,11 @@
+<mod
+	name = "Batman Mod"
+	creator = "Robin"
+>
+	<pattern>
+		<Texture
+			name = "Batman skin"
+			pattern = "PatternBatman"
+		/>
+	</pattern>
+</mod>
